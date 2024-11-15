@@ -51,11 +51,7 @@ This model is appreciated for its simplicity and efficiency in natural language 
 
 <img width="1440" alt="Screenshot 1403-08-25 at 20 48 26" src="https://github.com/user-attachments/assets/746cdffa-c5e3-4889-bcd1-c4bbf2956ac6">
 
-
 ---
-
-
-
 The **Backoff Language Model** and **Stupid Backoff** are both techniques used in natural language processing to estimate the probabilities of word sequences (n-grams), but they differ in their approaches and implementations. 
 
 ### Backoff Language Model
