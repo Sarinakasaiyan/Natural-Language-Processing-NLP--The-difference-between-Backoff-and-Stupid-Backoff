@@ -2,7 +2,7 @@
 <H2>Backoff</H2>
 
 
-The provided code implements a **Backoff Language Model**, which is used to estimate the probabilities of word sequences (n-grams) in natural language processing. Here’s a concise explanation of how the code works:
+The provided code implements a **Backoff Language Model**, which is used to estimate the probabilities of word sequences (n-grams) in natural language processing. 
 
 1. **Class Definition**: 
    - The `BackoffLanguageModel` class is initialized with a parameter $$ n $$ that specifies the maximum order of n-grams (e.g., unigrams, bigrams, trigrams). It uses a `defaultdict` to store counts of n-grams.
